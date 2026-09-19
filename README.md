@@ -56,6 +56,22 @@
 
 ---
 
+## 🎯 SOC Analyst Portfolio
+
+Hands-on security investigations built in a home lab using free, industry-standard tools — from packet-level network analysis to SIEM correlation and alert triage.
+
+| # | Project | Skills |
+|---|---|---|
+| 1 | [🌐 Following a Web Connection with Wireshark](https://github.com/RaviDahiya0001/soc-portfolio-project1-wireshark) | Packet analysis, DNS, TCP/IP, TLS/SNI |
+| 2 | [🖥️ Investigating Windows Processes with Sysmon](https://github.com/RaviDahiya0001/soc-portfolio-project2-sysmon) | Windows Event Logs, Sysmon, endpoint telemetry |
+| 3 | [📧 The Urgent Materials Payment (BEC Investigation)](https://github.com/RaviDahiya0001/soc-portfolio-project3-phishing-bec) | Business email compromise, SPF/DKIM/DMARC, social engineering |
+| 4 | [🚨 The Failed Login Alert — First SIEM Investigation](https://github.com/RaviDahiya0001/soc-portfolio-project4-wazuh-siem) | Wazuh SIEM, authentication analysis, alert triage |
+| 5 | [🛡️ Defender Found Something — Endpoint Alert Triage](https://github.com/RaviDahiya0001/soc-portfolio-project5-defender-siem) | Microsoft Defender, SIEM correlation, incident documentation |
+
+Each project includes full methodology, evidence screenshots, and a final case note written the way a Tier 1 SOC analyst would document a real investigation.
+
+---
+
 ## 📜 Certifications
 - Cisco Cybersecurity Certifications  
 - Cloud Computing (Codersed)  
